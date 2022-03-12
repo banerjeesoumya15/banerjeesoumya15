@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&duration=2100&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 # 👋 Hi, I’m Soumya Shankar Banerjee
 
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsoumya_data)
