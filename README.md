@@ -64,6 +64,15 @@
 ## Github trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banerjeesoumya15" alt="banerjeesoumya15" /></a> </p>
 
+### Connect with me on:
+<p align="left">
+<a href="https://twitter.com/soumya_data" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="soumya_data" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/soumya-shankar-banerjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soumya-shankar-banerjee" height="30" width="40" /></a>
+<a href="https://kaggle.com/banerjeesoumya15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="banerjeesoumya15" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/banerjeesoumya15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="banerjeesoumya15" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ssbanerjee15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ssbanerjee15" height="30" width="40" /></a>
+</p>
+
 
 <!---
 [![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=banerjeesoumya15&show_icons=true&theme=cobalt)](https://github.com/banerjeesoumya15/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banerjeesoumya15&layout=compact)](https://github.com/banerjeesoumya15/github-readme-stats)
