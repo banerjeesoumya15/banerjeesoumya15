@@ -1,8 +1,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&duration=2100&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 # 👋 Hi, I’m Soumya Shankar Banerjee
 
+<!---
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsoumya_data)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue/url?style=social&logo=linkedin&labelColor=blue&url=https://www.linkedin.com/in/soumya-shankar-banerjee/)](https://www.linkedin.com/in/soumya-shankar-banerjee/)
+--->
 
 
 - 👀 I’m interested in
@@ -12,7 +14,6 @@
   - Open Source Contribution
 - 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on any open source project
-- 📫 How to reach me banerjeesoumya15@gmail.com and [LinkedIn](linkedin.com/in/soumya-shankar-banerjee)
 
 
 ## Tech Stack
