@@ -60,9 +60,10 @@
 | ----------- | ------------- |
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=Mercari_Price_challenge&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=Data-Analysis-Covid19-tweets&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/github-readme-stats) |
 
-
+<!---
 ## Github trophies
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banerjeesoumya15" alt="banerjeesoumya15" /></a> </p>
+--->
 
 ### Connect with me on:
 <p align="left">
