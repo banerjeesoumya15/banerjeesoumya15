@@ -47,8 +47,11 @@
 </div>
 
 ## Github Stats
-| <a href="https://github.com/banerjeesoumya15/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=banerjeesoumya15&show_icons=true&theme=cobalt&hide_border=true&count_private=true" alt="Soumya's Github Stats" /></a> | <a href="https://github.com/banerjeesoumya15/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banerjeesoumya15&layout=compact&theme=cobalt&hide_border=true" alt="Top Lanuages" /></a>
+| <a href="https://github.com/banerjeesoumya15/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=banerjeesoumya15&show_icons=true&theme=cobalt&hide_border=true&count_private=true" alt="Soumya's Github Stats" /></a> | <a href="https://github.com/banerjeesoumya15/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banerjeesoumya15&layout=compact&theme=cobalt&hide_border=true" alt="Top Lanuages" /></a> |
 | ------------- | ------------- |
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=banerjeesoumya15&theme=tokyonight" alt="banerjeesoumya15" />
+
 
 
 
@@ -58,6 +61,8 @@
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=Mercari_Price_challenge&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=Data-Analysis-Covid19-tweets&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/github-readme-stats) |
 
 
+## Github trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=banerjeesoumya15" alt="banerjeesoumya15" /></a> </p>
 
 
 <!---
