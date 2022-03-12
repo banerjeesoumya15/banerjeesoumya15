@@ -52,9 +52,12 @@
 
 
 ## Top Repositories
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=Data_Analysis_app&theme=cobalt&show_owner=true&hide_border=true)](https://github.com/banerjeesoumya15/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=SQLPlayground&theme=cobalt&show_owner=true&hide_border=true)](https://github.com/banerjeesoumya15/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=Mercari_Price_challenge&theme=cobalt&show_owner=true&hide_border=true)](https://github.com/banerjeesoumya15/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=Data-Analysis-Covid19-tweets&theme=cobalt&show_owner=true&hide_border=true)](https://github.com/banerjeesoumya15/github-readme-stats)
-| ----------- | ------------- | 
-|------------ | ------------- |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=Data_Analysis_app&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=SQLPlayground&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/github-readme-stats) |
+| ----------- | ------------- |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=Mercari_Price_challenge&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=Data-Analysis-Covid19-tweets&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/github-readme-stats) |
+
+
+
 
 <!---
 [![Soumya's GitHub stats](https://github-readme-stats.vercel.app/api?username=banerjeesoumya15&show_icons=true&theme=cobalt)](https://github.com/banerjeesoumya15/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=banerjeesoumya15&layout=compact)](https://github.com/banerjeesoumya15/github-readme-stats)
