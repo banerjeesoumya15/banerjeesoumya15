@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&duration=2100&lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&duration=5000&lines=Welcome+to+my+profile!;SAS+Developer;Python+Lover!;Data+Analyst;Machine+Learning;Data+Science;)](https://git.io/typing-svg)
 # 👋 Hi, I’m Soumya Shankar Banerjee
 
 <!---
