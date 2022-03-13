@@ -39,6 +39,15 @@
   <a href="https://pandas.pydata.org/">
     <img width=200px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/450px-Pandas_logo.svg.png">&nbsp;&nbsp;
   </a>
+  <a href="https://scikit-learn.org/stable/">
+    <img width=200px alt="scikit-learn" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png">&nbsp;&nbsp;
+  </a>
+  <a href="https://matplotlib.org/">
+    <img width=200px alt="matplotlib" src="https://matplotlib.org/_static/images/logo2.svg">&nbsp;&nbsp;
+  </a>
+  <a href="https://seaborn.pydata.org/">
+    <img width=200px src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">&nbsp;&nbsp;
+  </a>
   <a href="https://www.tensorflow.org/">
     <img width=200px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/330px-TensorFlow_logo.svg.png">&nbsp;&nbsp;
   </a>
