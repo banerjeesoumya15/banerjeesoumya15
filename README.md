@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?size=30&duration=5000&lines=Welcome+to+my+profile!;SAS+Developer;Python+Lover!;Data+Analyst;Machine+Learning;Data+Science;)](https://git.io/typing-svg)
-# 👋 Hi, I’m Soumya Shankar Banerjee
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> Hi, I’m Soumya Shankar Banerjee 
 
 <!---
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsoumya_data)
