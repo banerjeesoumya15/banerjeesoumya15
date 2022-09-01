@@ -12,7 +12,7 @@
   - Data Analysis
   - Machine Learning
   - Open Source Contribution
-- 🌱 I’m currently learning Deep Learning
+- 🌱 I’m currently preparing for Tensorflow Developer certificate.
 - 💞️ I’m looking to collaborate on any open source project
 
 
