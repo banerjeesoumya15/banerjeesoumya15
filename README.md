@@ -68,7 +68,7 @@
 ## Top Repositories
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=Data_Analysis_app&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=SQLPlayground&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/github-readme-stats) |
 | ----------- | ------------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=Mercari_Price_challenge&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=Data-Analysis-Covid19-tweets&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/github-readme-stats) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=youtube-data-analysis&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/youtube-data-analysis) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=Data-Analysis-Covid19-tweets&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/github-readme-stats) |
 
 <!---
 ## Github trophies
