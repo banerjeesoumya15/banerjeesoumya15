@@ -8,11 +8,12 @@
 
 
 - 👀 I’m interested in
+  - Artificial Intelligence
   - Python
+  - Databricks
   - Data Analysis
   - Machine Learning
   - Open Source Contribution
-- 🌱 I’m currently preparing for Tensorflow Developer certificate.
 - 💞️ I’m looking to collaborate on any open source project
 
 
@@ -57,7 +58,7 @@
 </div>
 
 ## Github Stats
-| <a href="https://github.com/banerjeesoumya15/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=banerjeesoumya15&show_icons=true&theme=cobalt&hide_border=true&count_private=true" alt="Soumya's Github Stats" /></a> | <a href="https://github.com/banerjeesoumya15/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=banerjeesoumya15&layout=compact&theme=cobalt&hide_border=true" alt="Top Lanuages" /></a> |
+| <a href="https://github.com/banerjeesoumya15/github-stats-extended"><img align="center" src="https://github-stats-extended.vercel.app/api?username=banerjeesoumya15&show_icons=true&theme=cobalt&hide_border=true&count_private=true" alt="Soumya's Github Stats" /></a> | <a href="https://github.com/banerjeesoumya15/github-stats-extended"><img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=banerjeesoumya15&layout=compact&theme=cobalt&hide_border=true" alt="Top Lanuages" /></a> |
 | ------------- | ------------- |
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=banerjeesoumya15&theme=tokyonight" alt="banerjeesoumya15" />
@@ -66,9 +67,9 @@
 
 
 ## Top Repositories
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=Data_Analysis_app&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=SQLPlayground&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/github-readme-stats) |
+| [![Readme Card](https:/github-stats-extended.vercel.app/api/pin/?username=banerjeesoumya15&repo=Data_Analysis_app&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/github-stats-extended) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=banerjeesoumya15&repo=SQLPlayground&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/github-stats-extended) |
 | ----------- | ------------- |
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=youtube-data-analysis&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/youtube-data-analysis) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=banerjeesoumya15&repo=Data-Analysis-Covid19-tweets&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/github-readme-stats) |
+| [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=banerjeesoumya15&repo=youtube-data-analysis&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/youtube-data-analysis) | [![Readme Card](https://github-stats-extended.vercel.app/api/pin/?username=banerjeesoumya15&repo=Data-Analysis-Covid19-tweets&theme=cobalt&hide_border=true)](https://github.com/banerjeesoumya15/github-stats-extended) |
 
 <!---
 ## Github trophies
