@@ -20,7 +20,7 @@
 ## Tech Stack
 <div>
   <a href="https://www.python.org/">
-    <img width=100px src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/182px-Python-logo-notext.svg.png">&nbsp;&nbsp;
+    <img width=100px src="https://www.python.org/static/img/python-logo.png">&nbsp;&nbsp;
   </a>
   <a href="https://jupyter.org/">
     <img width=100px src="https://jupyter.org/assets/homepage/main-logo.svg">&nbsp;&nbsp;
@@ -29,22 +29,22 @@
     <img width=100px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png/330px-%E0%A6%B8%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png">&nbsp;&nbsp;
   </a>
   <a href="https://www.r-project.org/">
-    <img width=100px src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/182px-R_logo.svg.png">&nbsp;&nbsp;
+    <img width=100px src="https://www.r-project.org/Rlogo.png">&nbsp;&nbsp;
   </a>
   <a href="https://www.mysql.com/">
-    <img width=100px src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/150px-MySQL_logo.svg.png">&nbsp;&nbsp;
+    <img width=100px src="https://www.citypng.com/public/uploads/preview/hd-mysql-logo-transparent-background-701751694771788209ydqoapx.png">&nbsp;&nbsp;
   </a>
   <a href="https://numpy.org/">
     <img width=200px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/NumPy_logo_2020.svg/330px-NumPy_logo_2020.svg.png">&nbsp;&nbsp;
   </a>
   <a href="https://pandas.pydata.org/">
-    <img width=200px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/450px-Pandas_logo.svg.png">&nbsp;&nbsp;
+    <img width=200px src="https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/500px-Pandas_logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail">&nbsp;&nbsp;
   </a>
   <a href="https://scikit-learn.org/stable/">
     <img width=200px alt="scikit-learn" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png">&nbsp;&nbsp;
   </a>
   <a href="https://matplotlib.org/">
-    <img width=200px alt="matplotlib" src="https://matplotlib.org/_static/images/logo2.svg">&nbsp;&nbsp;
+    <img width=200px alt="matplotlib" src="https://matplotlib.org/_static/logo_dark.svg">&nbsp;&nbsp;
   </a>
   <a href="https://seaborn.pydata.org/">
     <img width=200px src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg">&nbsp;&nbsp;
@@ -53,7 +53,10 @@
     <img width=200px src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/330px-TensorFlow_logo.svg.png">&nbsp;&nbsp;
   </a>
   <a href="https://code.visualstudio.com/">
-    <img width=100px src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png">&nbsp;&nbsp;
+    <img width=100px src="https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/330px-Visual_Studio_Code_1.35_icon.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail">&nbsp;&nbsp;
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img width=100px src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/langgraph.png">&nbsp;&nbsp;
   </a>
 </div>
 
